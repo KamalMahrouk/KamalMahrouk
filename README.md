@@ -29,7 +29,7 @@
 #
 
 ### Support me
-<br/> <a href="https://buymeacoffee.com/kamelmahrouk?new=1"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a> <br />
+<br/> <a href="buymeacoffee.com/Kamelmahrouk"><img src="https://www.vectorlogo.zone/logos/buymeacoffee/buymeacoffee-official.svg"/></a> <br />
 #
 
 # Stats 
